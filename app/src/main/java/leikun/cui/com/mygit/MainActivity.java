@@ -1,4 +1,4 @@
-package leikun.cui.com.mygit;
+﻿package leikun.cui.com.mygit;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
@@ -10,6 +10,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         //我是主支代码
+           //我是分支代码
 
     }
 }
