@@ -17,10 +17,10 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="我是分支代码" />
+        android:text="我是分支代码-冲突" />
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="我是分支代码" />
+        android:text="我是分支代码-冲突" />
     
 </LinearLayout>
